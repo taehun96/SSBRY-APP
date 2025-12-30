@@ -505,7 +505,7 @@ augmentation:
 
 ## 🔗 관련 링크
 
-- **AI 모델 저장소**: [SSbry Model Repository](https://github.com/Q5dis/SSbry.git)
+- **AI 모델 저장소**: [SSbry Model Repository](https://github.com/taehun96/SSBRY-AI-MODEL)
 - **프로젝트 발표 자료**: [링크 추가 예정]
 - **데모 영상**: [링크 추가 예정]
 
