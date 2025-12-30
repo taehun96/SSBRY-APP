@@ -10,7 +10,7 @@ AI 기반 쓰레기 분류 시스템 - YOLOv8n 모델로 쓰레기를 자동 인
 
 현재 **Android APK 버전**이 배포되어 있습니다.
 
-- **다운로드**: [Google Drive 링크](https://drive.google.com/drive/folders/13n6XdaZlxzuWlXpKfPHqG-SxXi9Pc5KS?usp=sharing)
+- **다운로드**: [Google Drive 링크](https://drive.google.com/file/d/1Dk9mok6-SPNlynMFwtWQrPc3mO64bEwS/view?usp=sharing)
 - **플랫폼**: Android 전용
 
 ---
@@ -51,7 +51,7 @@ AI 기반 쓰레기 분류 시스템 - YOLOv8n 모델로 쓰레기를 자동 인
     ├─→ 에너지 정보 제공
     │   ├─ 경제적 절약액
     │   ├─ 재생에너지 생산량 (kWh)
-    │   └─ CO₂ 감축량 (소나무 그루 수)
+    │   └─ CO₂ 감축량
     └─→ 연못 생태계 업데이트
         ↓
 [사용자 대시보드]
@@ -180,7 +180,7 @@ SSbry/
 - **제공 정보**:
   - **경제적 절약액** (원 단위)
   - **재생에너지 생산량** (kWh)
-  - **CO₂ 감축량** → 소나무 그루 수 변환
+  - **CO₂ 감축량**
   - 개인/가정/국가 단위 환경 효과
 - **데이터 출처**: 환경부, 한국에너지공단, IRENA
 
@@ -486,7 +486,7 @@ augmentation:
 
 ### Android APK
 
-**[Google Drive에서 다운로드](https://drive.google.com/drive/folders/13n6XdaZlxzuWlXpKfPHqG-SxXi9Pc5KS?usp=sharing)**
+**[Google Drive에서 다운로드](https://drive.google.com/file/d/1Dk9mok6-SPNlynMFwtWQrPc3mO64bEwS/view?usp=sharing)**
 
 ### QR 코드
 
@@ -533,14 +533,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 프로젝트에 대한 문의사항이 있으시면 Issues를 통해 연락 주세요.
 
-**이메일**: [프로젝트 대표 이메일]
+**이메일**: [jk3160@naver.com]
 
 ---
 
 <div align="center">
 
 **분리배출에서 재생에너지까지, 에너지 순환의 여정** 🌍♻️
-
-Made with ❤️ by [팀명]
 
 </div>
